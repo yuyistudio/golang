@@ -1,3 +1,6 @@
+// 实现并发的非阻塞式缓存
+// http://docs.plhwin.com/gopl-zh/ch9/ch9-07.html
+
 package main
 
 import (
