@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"sync"
-	"unsafe"
+	"math"
 )
 
+
 func main() {
+	test()
 }
